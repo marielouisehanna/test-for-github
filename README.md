@@ -4,3 +4,7 @@
 2. creating the .github/workflow repo that contains the terraform.yml file that would help us deploy the services 
 
 
+## Next Step:
+
+1-) try to deploy an old project using Github 
+2-) try deploying a docker container 
