@@ -5,7 +5,7 @@
 2. Creating the .github/workflow repo that contains the terraform.yml file that would help us deploy the services ✔️
 3. Adding the workflow_dispatch inputs and the choices : apply and destroy ✔️
 
-test
+
 ## Next Step: (To Do 📝)
 
 1-) Try to deploy an old project using Github 🧐
